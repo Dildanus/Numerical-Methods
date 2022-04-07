@@ -1,0 +1,1 @@
+The point of this project is to implement numerical algorithms that solve matrices. In the report there is also an analysis of machine epsilon (what is it and what is it for). More comprehensive explanation is in the report.
