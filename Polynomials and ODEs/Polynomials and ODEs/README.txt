@@ -1,1 +1,0 @@
-This projects covers analysis of different methods of solving ODEs and finding a polynomial that fits certain data. Explenation of every code is covered in the report. Program used to write said algorithms is Matlab.
