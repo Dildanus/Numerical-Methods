@@ -1,1 +1,0 @@
-This project focuses on finding real and complex roots of functions and sets of equations using different algorithms. This concept is implemented via Matlab. Comprehensive information is provided in the report.
